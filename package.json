@@ -1,0 +1,12 @@
+{
+  "name": "sanity-studio-maskinuthyrning",
+  "private": true,
+  "scripts": {
+    "dev": "sanity dev",
+    "build": "sanity build",
+    "deploy": "sanity deploy"
+  },
+  "dependencies": {
+    "sanity": "^3.0.0"
+  }
+}
